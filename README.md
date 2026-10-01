@@ -7,7 +7,7 @@
 ---
 
 ## <a name="français"></a> 🇫🇷 Version Française
-Détail du projet en francais ici...
+
 # Calculateur d'Aire de Polygones (Polygon Area Calculator)
 
 Ce projet contient deux classes Python, `Rectangle` et `Square` (Carré), permettant de créer des formes géométriques, de modifier leurs dimensions, de calculer leurs propriétés (aire, périmètre, diagonale), et même de les dessiner sous forme de texte.
@@ -79,7 +79,7 @@ print(rect_grand.get_amount_inside(carre_petit)) # Affiche : 6
 ---
 
 ## <a name="english"></a> 🇬🇧 English Version
-Project details in English here...
+
 # Polygon Area Calculator
 
 This project contains two Python classes, `Rectangle` and `Square`, allowing you to create geometric shapes, modify their dimensions, calculate their properties (area, perimeter, diagonal), and even draw them using text representation.
